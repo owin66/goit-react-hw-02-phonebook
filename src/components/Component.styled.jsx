@@ -46,7 +46,7 @@ export const Form = styled.form`
   }
   & button {
     padding: 5px 10px;
-    background-color: #a8dc;
+    background-color: #a8de;
     border: 0px;
     border-radius: 5px;
     cursor: pointer;
